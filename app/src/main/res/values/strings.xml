@@ -18,7 +18,8 @@
     <string name="nama">Nama</string>
     <string name="email_address">Email Address</string>
     <string name="photo">Photo</string>
-    <string name="selamat_datang">Welcome, \nAngga Risky</string>
+    <string name="selamat_datang">Welcome, </string>
+    <string name="selamat_datang_value">Fauzi Riski</string>
     <string name="simpan_dan_lanjutkan">Simpan dan Lanjutkan</string>
     <string name="upload_nanti">Upload Nanti</string>
     <string name="name_profile">Angga Risky</string>
